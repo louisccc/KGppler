@@ -10,3 +10,7 @@ Original Source for YAGO3_10: https://github.com/TimDettmers/ConvE/raw/master/YA
 
 Original Source for FB15K-237: https://www.microsoft.com/en-us/download/details.aspx?id=52312
 
+Original Source for Kinship: https://archive.ics.uci.edu/ml/datasets/kinship
+Pre-processing is done by: https://github.com/TimDettmers/ConvE/
+
+
