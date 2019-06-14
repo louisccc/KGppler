@@ -1,10 +1,18 @@
 # KGppler
 
+<<<<<<< HEAD
 **FB15K:**
 Original Source: https://everest.hds.utc.fr/lib/exe/fetch.php?media=en:fb15k.tgz
 
 **WordNet18:**
 Original Source: https://everest.hds.utc.fr/lib/exe/fetch.php?media=en:wordnet-mlj12.tar.gz
+=======
+FB15K:
+Source: https://everest.hds.utc.fr/lib/exe/fetch.php?media=en:fb15k.tgz
+
+**WordNet18**:
+Original Link for WordNet18: https://everest.hds.utc.fr/lib/exe/fetch.php?media=en:wordnet-mlj12.tar.gz
+>>>>>>> d11e1c4bd2af2b2c47f2559d7a114f112c421a10
 
 **WN18_RR:** 
 Original Source: Unknown
